@@ -19,7 +19,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone ssh://github.com/arondi-12/Wk1-Code-Challenge-Phase-1.git 
+Git clone https://github.com/arondi-12/Wk1-Code-Challenge-Phase-1.git 
 
 ```
 
