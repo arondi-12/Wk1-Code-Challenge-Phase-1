@@ -1,11 +1,15 @@
-# (Project Name)
+# (WK1: Code Challenge)
 
-#### Date, 2018/09/14
+#### Date, 2024/09/29
 
-#### By *Hamida Mstafa Mohamed*
+#### By *David Ariwi*
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+This project has the following solutions:
+- Student grading program
+- Speed detector
+- Net Salary Calculator
+
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -15,24 +19,17 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/arondi-12/Wk1-Code-Challenge-Phase-1.git 
 
 ```
 
-# Live Link
-[Git](gh-pages link)
+
 
 ## Technologies used
-HTML
-CSS
-Github
 Javascript
 
-## Support and contact details
-github.com/hamida-mstafa
 
-### License
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
+
+Copyright (c) 2024.
 
 
