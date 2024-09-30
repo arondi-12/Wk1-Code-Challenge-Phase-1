@@ -1,7 +1,7 @@
 function gradingSystem(grade) {
-    if (grade > 79) {
+    if (grade > 79 && grade <= 100) {
       console.log('A');
-    } else if (grade >= 60 && grade < 79) {
+    } else if (grade >= 60 && grade <= 79) {
         console.log('B')
     } else if (grade >= 49 && grade < 60) {
         console.log('C');
