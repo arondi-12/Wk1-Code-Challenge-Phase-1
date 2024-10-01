@@ -2,9 +2,9 @@ function calculatePayee(basicSalary) {
     let tax = 0;
     if (basicSalary <= 24000){
         tax = basicSalary * 0.1;
-    } else if (basicSalary >2400 && basicSalary <= 32333){
-        tax = 2400 + 0.1 + (basicSalary - 24000) *0.25;
-    } else if (basicSalary > 3233 && basicSalary <= 500000){
+    } else if (basicSalary >24000 && basicSalary <= 32333){
+        tax = 2400 + (basicSalary - 24000) *0.25;
+    } else if (basicSalary > 32333 && basicSalary <= 500000){
         tax = 4800 + (basicSalary - 32333) * 0.3;
     }  else if (basicSalary > 500000 && basicSalary <= 800000){
         tax = 6800 + (basicSalary - 500000) * 0.325;
