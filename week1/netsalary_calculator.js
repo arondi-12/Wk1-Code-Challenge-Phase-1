@@ -105,7 +105,7 @@ function main(){
     })
     readLine.question('Enter basic salary:', (answer)=>{
    const basicSalary = parseFloat (answer)
-   readLine.question('enter the benefits' , (answer)=> {
+   readLine.question('enter the benefits:' , (answer)=> {
     const benefits = parseFloat (answer)
   
    const { grossSalary, payee, nhif, nssf, housingLevy, netSalary } = calculateNetSalary(basicSalary, benefits);
