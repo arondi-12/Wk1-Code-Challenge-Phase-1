@@ -7,7 +7,7 @@ function gradingSystem(grade) {
         console.log('C');
     } else if (grade >= 40 && grade < 49) {
         console.log('D');
-    } else if (grade < 40) {
+    } else if (grade < 40 && grade >= 0) {
         console.log('E')
     }
 }
